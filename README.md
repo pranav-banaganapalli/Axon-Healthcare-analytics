@@ -32,7 +32,7 @@ There was a need for a centralized, interactive reporting system.
 - Conditional formatting for trend analysis
 
 **Screenshot:**
-![Excel Dashboard Screenshot](screenshots/excel_dashboard.png)
+![Excel Dashboard Screenshot](Screenshots/Excel_Dashboard.png)
 
 📁 `Excel_Dashboard/`
 
@@ -44,7 +44,7 @@ There was a need for a centralized, interactive reporting system.
 - Interactive slicers and drill-downs
 
 **Screenshot:**
-![Power BI Dashboard Screenshot](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard Screenshot](Screenshots/PowerBI_Dashboard.png)
 
 📁 `PowerBI_Dashboard/`
 
@@ -56,7 +56,7 @@ There was a need for a centralized, interactive reporting system.
 - Executive-level dashboard layout
 
 **Screenshot:**
-![Tableau Dashboard Screenshot](screenshots/tableau_dashboard.png)
+![Tableau Dashboard Screenshot](Screenshots/Tableau_Dashboard.png)
 
 📁 `Tableau_Dashboard/`
 
